@@ -82,7 +82,7 @@ export const EvoEnergy = () => {
             colors: ['#fff']
           },
           formatter: function (val, opt) {
-            return  opt.w.globals.labels[opt.dataPointIndex] + ":  " + val.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".") 
+            return  opt.w.globals.labels[opt.dataPointIndex] + ":  " + val.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ".") + " kw"
           },
 
           offsetX: 0,
