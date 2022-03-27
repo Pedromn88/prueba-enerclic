@@ -1,0 +1,43 @@
+.css-hip9hq-MuiPaper-root-MuiAppBar-root {
+    background: #3b434d !important
+}
+
+.css-1t6c9ts {
+    margin: 10px 0px 0px 15px
+}
+
+
+
+.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root:hover {
+    background: #fe5000 !important;
+    transition: 0.6s,
+}
+
+.css-i4bv87-MuiSvgIcon-root{
+    margin-top: 10px
+}
+
+.css-6hp17o-MuiList-root-MuiMenu-list {
+    background: #3b434d;
+    color: White
+}
+
+.css-1k2devk-MuiButtonBase-root-MuiButton-root:hover {
+    background: #fe5000 !important
+}
+
+.footer {
+    text-align:center;
+    width: 100%;
+    background: #3b434d;
+    color: white;
+    padding: 30px 0px
+    
+}
+
+.footer > p {
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-weight: 400;
+
+}

@@ -1,0 +1,14 @@
+#chart {
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    text-align:center
+}
+
+
+.card {
+    display: flex;
+    justify-content: center
+}
